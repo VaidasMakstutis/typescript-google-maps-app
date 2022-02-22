@@ -1,0 +1,23 @@
+{
+  "name": "typescript-google-maps-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaidasMakstutis/typescript-google-maps-app.git"
+  },
+  "keywords": [],
+  "author": "Vaidas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VaidasMakstutis/typescript-google-maps-app/issues"
+  },
+  "homepage": "https://github.com/VaidasMakstutis/typescript-google-maps-app#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
